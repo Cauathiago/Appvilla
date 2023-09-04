@@ -53,7 +53,7 @@ Appvilla is a multi-page landing website with some cool features like animation 
 
 ## Author
 
-- Frontend Mentor - [@Drougnov](https://www.frontendmentor.io/profile/cauathiago)
-- instagram - [Cauã Thiago](https://www.instagram.com/cauathiagooficial/)
+- Frontend Mentor - [@cauathiago](https://www.frontendmentor.io/profile/cauathiago)
+- instagram - [@cauathiagooficial](https://www.instagram.com/cauathiagooficial/)
 - Twitter - [@cauathiago_dev](https://twitter.com/cauathiago_dev)
 
